@@ -4,7 +4,7 @@
   <name>Simbot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">Aaron Chou</maintainer>
+  <maintainer email="uuuloon777@gmail.com">Aaron Chou</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
